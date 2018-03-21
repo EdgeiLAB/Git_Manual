@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.d("test", "Hello World!!!!!");
         Log.d("test", "Git Manual");
+        Log.d("test", "It's Hotfix Branch");
     }
 }
