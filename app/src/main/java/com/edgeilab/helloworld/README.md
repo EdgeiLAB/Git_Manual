@@ -1,0 +1,1 @@
+Remote respository of Android Studio IDE
