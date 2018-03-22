@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("test", "It's Master Branch");
         Log.d("test", "It's Hotfix Branch");
         Log.d("test", "Hello Local repository!!!!");
+        Log.d("test", "Hello GitHub!!!!!");
     }
 }
 
